@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 120" width="1200" height="120" role="img" aria-label="Animated amber and teal waves">
+  <style>
+    .w1 { animation: slide 9s linear infinite; }
+    .w2 { animation: slide 13s linear infinite reverse; }
+    .w3 { animation: slide 17s linear infinite; }
+    @keyframes slide { from { transform: translateX(0); } to { transform: translateX(-240px); } }
+    @media (prefers-reduced-motion: reduce) { .w1, .w2, .w3 { animation: none; } }
+  </style>
+  <!-- each wave is 240px periodic, so sliding by exactly one period loops seamlessly -->
+  <path class="w1" fill="#F5B942" fill-opacity="0.20"
+        d="M-240 56 q60 -22 120 0 t120 0 t120 0 t120 0 t120 0 t120 0 t120 0 t120 0 t120 0 t120 0 t120 0 t120 0 t120 0 t120 0 t120 0 t120 0 V120 H-240 Z"/>
+  <path class="w2" fill="#6FB7A7" fill-opacity="0.24"
+        d="M-240 74 q60 18 120 0 t120 0 t120 0 t120 0 t120 0 t120 0 t120 0 t120 0 t120 0 t120 0 t120 0 t120 0 t120 0 t120 0 t120 0 t120 0 V120 H-240 Z"/>
+  <path class="w3" fill="#F5B942" fill-opacity="0.14"
+        d="M-240 92 q60 -12 120 0 t120 0 t120 0 t120 0 t120 0 t120 0 t120 0 t120 0 t120 0 t120 0 t120 0 t120 0 t120 0 t120 0 t120 0 t120 0 V120 H-240 Z"/>
+</svg>

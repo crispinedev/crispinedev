@@ -1,0 +1,144 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 420" width="1200" height="420" role="img" aria-label="Crispine — full-stack developer and graphic designer building commerce infrastructure in Nairobi, Kenya">
+  <style>
+    .sans  { font-family: "Segoe UI", -apple-system, "Helvetica Neue", Helvetica, Arial, sans-serif; }
+    .mono  { font-family: ui-monospace, "SFMono-Regular", "Cascadia Code", Menlo, Consolas, "Liberation Mono", monospace; }
+    .serif { font-family: Georgia, "Iowan Old Style", "Times New Roman", serif; }
+    .emoji { font-family: "Segoe UI Emoji", "Apple Color Emoji", "Noto Color Emoji", sans-serif; }
+
+    .ink   { fill: #F2EFE9; }
+    .amber { fill: #F5B942; }
+    .teal  { fill: #6FB7A7; }
+    .dim   { fill: #8A93A6; }
+
+    /* drifting glow behind everything */
+    .orb  { transform-box: fill-box; transform-origin: center; }
+    .orb1 { animation: drift1 14s ease-in-out infinite alternate; }
+    .orb2 { animation: drift2 18s ease-in-out infinite alternate; }
+    @keyframes drift1 { from { transform: translate(0, 0) scale(1); }    to { transform: translate(140px, 50px) scale(1.25); } }
+    @keyframes drift2 { from { transform: translate(0, 0) scale(1.1); }  to { transform: translate(-160px, -40px) scale(.9); } }
+
+    /* staggered entrance */
+    .rise { animation: rise .8s cubic-bezier(.2, .7, .2, 1) both; }
+    .d1 { animation-delay: .1s }  .d2 { animation-delay: .25s } .d3 { animation-delay: .45s }
+    .d4 { animation-delay: .65s } .d5 { animation-delay: .85s } .d6 { animation-delay: 1.05s }
+    @keyframes rise { from { opacity: 0; transform: translateY(12px); } to { opacity: 1; transform: none; } }
+
+    .rule { stroke: url(#ruleGrad); stroke-width: 4; stroke-linecap: round; fill: none;
+            stroke-dasharray: 300; animation: draw 1.4s cubic-bezier(.65, 0, .2, 1) .5s both; }
+    @keyframes draw { from { stroke-dashoffset: 300; } to { stroke-dashoffset: 0; } }
+
+    .cursor { animation: blink 1.1s steps(1) infinite; }
+    @keyframes blink { 50% { opacity: 0; } }
+
+    .pulse { transform-box: fill-box; transform-origin: center; animation: pulse 2s ease-out infinite; }
+    @keyframes pulse { from { transform: scale(1); opacity: .7; } to { transform: scale(3.2); opacity: 0; } }
+
+    .wave { transform-box: fill-box; transform-origin: 70% 80%; animation: wave 2.6s ease-in-out infinite; }
+    @keyframes wave { 0%, 60%, 100% { transform: rotate(0); } 10%, 30% { transform: rotate(16deg); } 20%, 40% { transform: rotate(-8deg); } }
+
+    /* terminal output: lines print one by one, hold, clear, repeat */
+    .ln { animation: term 12s ease-out infinite both; }
+    .l1 { animation-delay: 1.2s } .l2 { animation-delay: 1.8s } .l3 { animation-delay: 2.6s }
+    .l4 { animation-delay: 3.2s } .l5 { animation-delay: 3.6s } .l6 { animation-delay: 4.0s }
+    @keyframes term { 0% { opacity: 0; } 3% { opacity: 1; } 85% { opacity: 1; } 90%, 100% { opacity: 0; } }
+
+    .live { animation: glow 1.6s ease-in-out infinite alternate; }
+    @keyframes glow { from { opacity: .45; } to { opacity: 1; } }
+
+    @media (prefers-reduced-motion: reduce) {
+      .orb1, .orb2, .rise, .rule, .cursor, .pulse, .wave, .ln, .live { animation: none; }
+    }
+  </style>
+
+  <defs>
+    <pattern id="dots" width="28" height="28" patternUnits="userSpaceOnUse">
+      <circle cx="1.5" cy="1.5" r="1.5" fill="#F2EFE9" opacity="0.06"/>
+    </pattern>
+    <radialGradient id="gAmber">
+      <stop offset="0" stop-color="#F5B942" stop-opacity="0.22"/>
+      <stop offset="1" stop-color="#F5B942" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="gTeal">
+      <stop offset="0" stop-color="#6FB7A7" stop-opacity="0.22"/>
+      <stop offset="1" stop-color="#6FB7A7" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="ruleGrad" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#F5B942"/>
+      <stop offset="1" stop-color="#6FB7A7"/>
+    </linearGradient>
+    <clipPath id="card"><rect width="1200" height="420" rx="24"/></clipPath>
+  </defs>
+
+  <!-- card -->
+  <g clip-path="url(#card)">
+    <rect width="1200" height="420" fill="#0B1220"/>
+    <circle class="orb orb1" cx="260" cy="120" r="240" fill="url(#gAmber)"/>
+    <circle class="orb orb2" cx="980" cy="340" r="280" fill="url(#gTeal)"/>
+    <rect width="1200" height="420" fill="url(#dots)"/>
+  </g>
+
+  <!-- eyebrow -->
+  <g class="rise d1">
+    <circle class="pulse" cx="76" cy="78" r="5" fill="#F5B942"/>
+    <circle cx="76" cy="78" r="5" fill="#F5B942"/>
+    <text x="94" y="83" class="mono amber" font-size="14" letter-spacing="3.5">NAIROBI, KENYA  ·  UTC+3</text>
+  </g>
+
+  <!-- greeting -->
+  <g class="rise d2">
+    <text x="66" y="146" class="emoji wave" font-size="30">👋</text>
+    <text x="108" y="144" class="sans dim" font-size="26">Habari, I'm</text>
+  </g>
+
+  <!-- name -->
+  <g class="rise d3">
+    <text x="64" y="232" class="sans ink" font-size="92" font-weight="800" letter-spacing="-3">Crispine</text>
+  </g>
+  <path class="rule" d="M70 256 H 340"/>
+
+  <!-- the split: code face / design face -->
+  <g class="rise d4">
+    <text x="68" y="314" font-size="34">
+      <tspan class="mono teal">full-stack developer</tspan><tspan class="mono teal cursor">▍</tspan>
+    </text>
+  </g>
+  <g class="rise d5">
+    <text x="68" y="364" font-size="34">
+      <tspan class="sans dim" font-size="28">&amp;  </tspan><tspan class="serif amber" font-style="italic">graphic designer</tspan>
+    </text>
+  </g>
+
+  <!-- terminal -->
+  <g class="rise d3">
+    <rect x="690" y="56" width="450" height="300" rx="14" fill="#0E1729" stroke="#22304A"/>
+    <circle cx="714" cy="76" r="6" fill="#FF5F57"/>
+    <circle cx="734" cy="76" r="6" fill="#FEBC2E"/>
+    <circle cx="754" cy="76" r="6" fill="#28C840"/>
+    <text x="915" y="81" text-anchor="middle" class="mono dim" font-size="13">crispine@nairobi: ~</text>
+    <line x1="690" y1="96" x2="1140" y2="96" stroke="#22304A"/>
+
+    <text x="714" y="130" class="mono ln l1" font-size="16"><tspan class="teal">$ </tspan><tspan class="ink">whoami</tspan></text>
+    <text x="714" y="160" class="mono ln l2" font-size="15"><tspan class="dim">→ </tspan><tspan class="ink">builds commerce infra for Africa 🌍</tspan></text>
+
+    <text x="714" y="200" class="mono ln l3" font-size="16"><tspan class="teal">$ </tspan><tspan class="ink">cat now.txt</tspan></text>
+    <g class="ln l4">
+      <text x="714" y="232" class="mono ink" font-size="15">🟢 Safi Systems</text>
+      <text x="1116" y="232" text-anchor="end" class="mono teal live" font-size="14">live</text>
+    </g>
+    <g class="ln l5">
+      <text x="714" y="262" class="mono ink" font-size="15">🧪 SokoFlow</text>
+      <text x="1116" y="262" text-anchor="end" class="mono amber" font-size="14">beta</text>
+    </g>
+    <g class="ln l6">
+      <text x="714" y="292" class="mono ink" font-size="15">🔨 Storewave</text>
+      <text x="1116" y="292" text-anchor="end" class="mono dim" font-size="14">building</text>
+    </g>
+
+    <text x="714" y="332" class="mono" font-size="16"><tspan class="teal">$ </tspan><tspan class="ink cursor">▍</tspan></text>
+  </g>
+
+  <!-- handle -->
+  <g class="rise d6">
+    <text x="1140" y="390" text-anchor="end" class="mono dim" font-size="13" letter-spacing="3">GITHUB.COM/CRISPINEDEV</text>
+  </g>
+</svg>
