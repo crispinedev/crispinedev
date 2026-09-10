@@ -1,0 +1,79 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 190" width="1200" height="190" role="img" aria-label="6+ projects delivered, 4+ years experience, 5 companies worked with, 4 certifications earned">
+  <style>
+    .sans  { font-family: "Segoe UI", -apple-system, "Helvetica Neue", Helvetica, Arial, sans-serif; }
+    .mono  { font-family: ui-monospace, "SFMono-Regular", "Cascadia Code", Menlo, Consolas, monospace; }
+    .emoji { font-family: "Segoe UI Emoji", "Apple Color Emoji", "Noto Color Emoji", sans-serif; }
+    .ink   { fill: #F2EFE9; }
+    .amber { fill: #F5B942; }
+    .dim   { fill: #8A93A6; }
+
+    .rise { animation: rise .8s cubic-bezier(.2, .7, .2, 1) both; }
+    @keyframes rise { from { opacity: 0; transform: translateY(14px); } to { opacity: 1; transform: none; } }
+
+    .bar { stroke-dasharray: 60; animation: draw 1s cubic-bezier(.65, 0, .2, 1) both; }
+    @keyframes draw { from { stroke-dashoffset: 60; } to { stroke-dashoffset: 0; } }
+
+    .glow { transform-box: fill-box; transform-origin: center; animation: drift 16s ease-in-out infinite alternate; }
+    @keyframes drift { from { transform: translateX(-80px); } to { transform: translateX(80px); } }
+
+    .plus { animation: pulse 2.4s ease-in-out infinite; }
+    @keyframes pulse { 0%, 100% { opacity: 1; } 50% { opacity: .45; } }
+
+    @media (prefers-reduced-motion: reduce) { .rise, .bar, .glow, .plus { animation: none; } }
+  </style>
+
+  <defs>
+    <pattern id="dots" width="28" height="28" patternUnits="userSpaceOnUse">
+      <circle cx="1.5" cy="1.5" r="1.5" fill="#F2EFE9" opacity="0.05"/>
+    </pattern>
+    <radialGradient id="g">
+      <stop offset="0" stop-color="#6FB7A7" stop-opacity="0.16"/>
+      <stop offset="1" stop-color="#6FB7A7" stop-opacity="0"/>
+    </radialGradient>
+    <clipPath id="card"><rect width="1200" height="190" rx="20"/></clipPath>
+  </defs>
+
+  <g clip-path="url(#card)">
+    <rect width="1200" height="190" fill="#0B1220"/>
+    <ellipse class="glow" cx="600" cy="95" rx="420" ry="160" fill="url(#g)"/>
+    <rect width="1200" height="190" fill="url(#dots)"/>
+  </g>
+
+  <g stroke="#22304A">
+    <line x1="300" y1="40" x2="300" y2="150"/>
+    <line x1="600" y1="40" x2="600" y2="150"/>
+    <line x1="900" y1="40" x2="900" y2="150"/>
+  </g>
+
+  <!-- 6+ projects -->
+  <g class="rise" style="animation-delay:.1s">
+    <text x="150" y="58" text-anchor="middle" class="emoji" font-size="24">🚀</text>
+    <text x="150" y="118" text-anchor="middle" class="sans ink" font-size="54" font-weight="800">6<tspan class="amber plus">+</tspan></text>
+    <text x="150" y="158" text-anchor="middle" class="mono dim" font-size="13" letter-spacing="2.5">PROJECTS DELIVERED</text>
+  </g>
+  <path class="bar" style="animation-delay:.5s" d="M120 132 H180" stroke="#F5B942" stroke-width="3" stroke-linecap="round"/>
+
+  <!-- 4+ years -->
+  <g class="rise" style="animation-delay:.25s">
+    <text x="450" y="58" text-anchor="middle" class="emoji" font-size="24">⏳</text>
+    <text x="450" y="118" text-anchor="middle" class="sans ink" font-size="54" font-weight="800">4<tspan class="amber plus">+</tspan></text>
+    <text x="450" y="158" text-anchor="middle" class="mono dim" font-size="13" letter-spacing="2.5">YEARS EXPERIENCE</text>
+  </g>
+  <path class="bar" style="animation-delay:.65s" d="M420 132 H480" stroke="#6FB7A7" stroke-width="3" stroke-linecap="round"/>
+
+  <!-- 5 companies -->
+  <g class="rise" style="animation-delay:.4s">
+    <text x="750" y="58" text-anchor="middle" class="emoji" font-size="24">🏢</text>
+    <text x="750" y="118" text-anchor="middle" class="sans ink" font-size="54" font-weight="800">5</text>
+    <text x="750" y="158" text-anchor="middle" class="mono dim" font-size="13" letter-spacing="2.5">COMPANIES WORKED WITH</text>
+  </g>
+  <path class="bar" style="animation-delay:.8s" d="M720 132 H780" stroke="#F5B942" stroke-width="3" stroke-linecap="round"/>
+
+  <!-- 4 certifications -->
+  <g class="rise" style="animation-delay:.55s">
+    <text x="1050" y="58" text-anchor="middle" class="emoji" font-size="24">🎓</text>
+    <text x="1050" y="118" text-anchor="middle" class="sans ink" font-size="54" font-weight="800">4</text>
+    <text x="1050" y="158" text-anchor="middle" class="mono dim" font-size="13" letter-spacing="2.5">CERTIFICATIONS EARNED</text>
+  </g>
+  <path class="bar" style="animation-delay:.95s" d="M1020 132 H1080" stroke="#6FB7A7" stroke-width="3" stroke-linecap="round"/>
+</svg>
