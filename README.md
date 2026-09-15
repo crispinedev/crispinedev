@@ -18,6 +18,8 @@
   <a href="https://crispine.co.ke"><img src="https://img.shields.io/badge/crispine.co.ke-0B1220?style=for-the-badge&logo=googlechrome&logoColor=F5B942" alt="Website" /></a>
   <a href="https://www.linkedin.com/in/crispine-kuria"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge" alt="LinkedIn" /></a>
   <a href="https://x.com/crispine081"><img src="https://img.shields.io/badge/@crispine081-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
+  <a href="https://www.instagram.com/gotta.luv_kuria/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
+  <a href="https://www.facebook.com/crispine.kuria"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" /></a>
   <a href="https://wa.me/254705261887"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" /></a>
   <a href="mailto:hello@crispine.co.ke"><img src="https://img.shields.io/badge/hello@crispine.co.ke-0B1220?style=for-the-badge&logo=gmail&logoColor=F5B942" alt="Email" /></a>
   <img src="https://komarev.com/ghpvc/?username=crispinedev&label=Profile%20views&color=F5B942&style=for-the-badge" alt="Profile views" />
