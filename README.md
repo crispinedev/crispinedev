@@ -116,13 +116,6 @@ How my two companies help other businesses grow:
 
 <!-- Link a project only once its repo or site is public. -->
 
-## 📂 On GitHub
-
-| Repo | What it is | Built with |
-|:--|:--|:--|
-| 🖼️ **[My-Portfolio](https://github.com/crispinedev/My-Portfolio)** | The source of [crispine.co.ke](https://crispine.co.ke) — static Next.js portfolio with case studies, service pages and a client brief form | Next.js · Tailwind · Framer Motion |
-| 🩺 **[Kiki's Medical](https://github.com/crispinedev/E-commerce-Kiki-s-Medical)** | WooCommerce store for a medical supplies business, built on a customized ProPharm child theme | WordPress · WooCommerce |
-
 <!--
   Open source — uncomment each row on the day the repo goes public. Never before.
 
@@ -179,15 +172,61 @@ How my two companies help other businesses grow:
 
 ## 💼 Experience
 
-| When | Role | Where |
-|:--|:--|:--|
-| now | 🚀 **Founder & CEO** | Pixalate Kenya · Safi Systems Kenya |
-| now | 🧩 **Founder & Freelance Developer** | SokoFlow, PromptKit, Moment, Stitch, Yessify, Storewave |
-| 2024 – 2025 | 🧑‍💻 **IT Programmer Analyst** | Dynamic Kenya LTD, Nairobi |
-| 2023 | 🌐 **Remote IT Manager** | Amaris Solutions Group |
-| 2022 | 💻 **Freelance Web & Software Developer** | Upwork |
-| 2021 | 🛠️ **Freelance Software Developer & IT Consultant** | Self-employed |
-| 2021 | 🖥️ **Remote System Administrator** | Equident Healthcare |
+#### 🚀 Founder & CEO · Pixalate Kenya & Safi Systems Kenya
+<sub>Nairobi, Kenya · Present</sub>
+
+- Lead **Pixalate Kenya**, a design & engineering studio delivering brand identity, websites, M-Pesa integrations and automation for businesses
+- Lead **Safi Systems Kenya**, providing managed hosting and Odoo deployments with backups, monitoring and local support for SMEs
+
+#### 🧩 Founder & Freelance Developer · SaaS platforms
+<sub>Nairobi, Kenya · Present</sub>
+
+- Building **SokoFlow**, **PromptKit**, **Moment**, **Stitch**, **Yessify** and **Storewave**: commerce, AI and consumer products for African markets
+
+#### 🧑‍💻 IT Programmer Analyst · Dynamic Kenya LTD
+<sub>Nairobi, Kenya · Jan 2024 – 2025</sub>
+
+- Spearheaded scalable software solutions across web and mobile, achieving a **36%** improvement in development speed and system performance
+- Enhanced backend operations with PHP, boosting data security and processing efficiency across several large-scale applications
+- Designed and refined user interfaces that raised user satisfaction and reduced support inquiries by **25%**
+- Assessed business processes and recommended automation strategies, leading to a **40%** reduction in manual processes
+- Advised on IT strategy and security protocols, strengthening cybersecurity through regular system audits and upgrades
+
+<details>
+<summary><b>Earlier roles</b> · 2021 – 2023</summary>
+
+#### 🌐 Remote IT Manager · Amaris Solutions Group
+<sub>Nairobi, Kenya · Jan 2023</sub>
+
+- Managed the company website, ensuring high uptime, robust security and a seamless user experience
+- Streamlined the e-commerce workflow by processing online orders efficiently, boosting customer satisfaction
+- Designed social media graphics to strengthen digital marketing and brand visibility
+- Provided remote IT support across Digital, Medical, Hardware, Chemical and Beauty Solutions
+- Collaborated with global and local partners, and oversaw IT budgets to deliver projects on time and within cost
+
+#### 💻 Freelance Web & Software Developer · Upwork
+<sub>Nairobi, Kenya · Jun 2022</sub>
+
+- Delivered end-to-end, responsive web development for clients using HTML, CSS, JavaScript and PHP
+- Managed projects from inception to delivery within client specifications, timelines and budgets
+- Integrated RESTful APIs to streamline data flow and improve user experience and site performance
+- Ran user testing and debugging for stable, high-performing sites
+
+#### 🛠️ Freelance Software Developer & IT Consultant
+<sub>Nairobi, Kenya · Jan 2021</sub>
+
+- Designed, tested and deployed custom software for clients across industries using JavaScript, Python and PHP
+- Consulted SMEs on IT strategy, infrastructure and security, aligning IT with business goals
+- Recommended network security, storage and software improvements that delivered significant cost savings
+
+#### 🖥️ Remote System Administrator · Equident Healthcare
+<sub>Nairobi, Kenya · Jan – Nov 2021</sub>
+
+- Configured and maintained secure network systems across multiple remote sites
+- Supported users remotely, troubleshooting issues and implementing secure IT practices
+- Performed vulnerability assessments and optimised systems to meet evolving security standards
+
+</details>
 
 ## 🎓 Education & certifications
 
