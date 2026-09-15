@@ -36,39 +36,34 @@
 
 ## 👋 About me
 
+🇰🇪 **Founder & CEO of [Pixalate Kenya](https://pixalate.co.ke) and Safi Systems Kenya**, based in **Nairobi**. I'm a freelance full-stack developer and graphic designer building **production commerce infrastructure** for African markets: payments, multi-tenant SaaS, and the self-hosted systems that run them.
+
 <table>
 <tr>
-<td width="55%" valign="top">
+<th width="50%" align="left">🏢 What I run & build</th>
+<th width="50%" align="left">⚡ Quick facts</th>
+</tr>
+<tr>
+<td valign="top">
 
-- 🇰🇪 **Founder & CEO of [Pixalate Kenya](https://pixalate.co.ke)** (design & engineering studio) and **Safi Systems Kenya** (managed hosting & Odoo) — both up and running, based in **Nairobi, Kenya**
-- 🚀 Freelance developer and founder of a growing family of SaaS platforms: **SokoFlow**, **PromptKit**, **Moment**, **Stitch**, **Yessify** and **Storewave**
-- 🛒 I build **production commerce infrastructure** for African markets — payments, multi-tenant SaaS, and the self-hosted systems that run them
-- 💸 **M-Pesa**, **WhatsApp** and low-bandwidth users are my starting assumptions, not afterthoughts
-- 🎓 **BSc Applied Computer Science**, Egerton University · CCNA · AWS Cloud Practitioner
-- 🤖 Currently deep into **AI tooling** — Claude API and agent workflows
-- 💬 Ask me about **M-Pesa Daraja, Odoo, Docker/Nginx deployments, networking, brand design**
-- 📫 Fastest reply: **[hello@crispine.co.ke](mailto:hello@crispine.co.ke)** or **[WhatsApp](https://wa.me/254705261887)**
+- 🎨 **Pixalate Kenya:** design & engineering studio
+- 🛡️ **Safi Systems Kenya:** managed hosting & Odoo
+- 🔨 **Building:** SokoFlow, PromptKit, Moment, Stitch, Yessify, Storewave
+- 💸 **M-Pesa**, **WhatsApp** and low-bandwidth users come first
 
 </td>
-<td width="45%" valign="top">
+<td valign="top">
 
-```ts
-const crispine = {
-  based:     "Nairobi, Kenya 🇰🇪",
-  timezone:  "EAT (UTC+3)",
-  roles:     ["founder & CEO", "freelance full-stack developer", "graphic designer"],
-  running:   ["Pixalate Kenya", "Safi Systems Kenya"],
-  building:  ["SokoFlow", "PromptKit", "Moment", "Stitch", "Yessify", "Storewave"],
-  payments:  "M-Pesa Daraja 💸",
-  hosting:   "self-hosted, always 🐳",
-  speaks:    ["English", "Kiswahili"],
-  openTo:    "contract work via Pixalate",
-};
-```
+- 🎓 **BSc Applied Computer Science**, Egerton · CCNA · AWS
+- 🤖 Deep into **AI tooling:** Claude API & agent workflows
+- 💬 **Ask me about:** M-Pesa Daraja, Odoo, Docker/Nginx, brand design
+- 🗣️ English & Kiswahili · EAT (UTC+3)
 
 </td>
 </tr>
 </table>
+
+📫 Fastest reply: **[hello@crispine.co.ke](mailto:hello@crispine.co.ke)** or **[WhatsApp](https://wa.me/254705261887)**
 
 ## 📈 Impact
 
