@@ -11,7 +11,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=20&duration=3500&pause=900&color=F5B942&center=true&vCenter=true&width=760&lines=Founder+%26+CEO+%E2%80%A2+Pixalate+Kenya+%26+Safi+Systems+Kenya;Building+SaaS+for+African+markets;Software+developer+%E2%80%A2+Cloud+%26+DevOps+%E2%80%A2+Cybersecurity;M-Pesa+payments+%E2%80%A2+multi-tenant+SaaS+%E2%80%A2+self-hosted+infra;Full-stack+developer+%26+graphic+designer;Open+to+contract+work+through+Pixalate" alt="Founder & CEO of Pixalate Kenya and Safi Systems Kenya" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=20&duration=3500&pause=900&color=F5B942&center=true&vCenter=true&width=760&lines=Founder+%26+CEO+%E2%80%A2+Pixalate+Kenya+%26+Safi+Systems+Kenya;Building+SaaS+for+African+markets;ERP+%26+CRM+implementation+%E2%80%A2+Odoo+and+more;Software+developer+%E2%80%A2+Cloud+%26+DevOps+%E2%80%A2+Cybersecurity;M-Pesa+payments+%E2%80%A2+multi-tenant+SaaS+%E2%80%A2+self-hosted+infra;Full-stack+developer+%26+graphic+designer;Open+to+contract+work+through+Pixalate" alt="Founder & CEO of Pixalate Kenya and Safi Systems Kenya" />
 </p>
 
 <p align="center">
@@ -24,12 +24,12 @@
 </p>
 
 <p align="center">
-  <img src="./assets/stats.svg" width="100%" alt="6+ projects delivered · 4+ years experience · 5 companies worked with · 4 certifications earned" />
+  <img src="./assets/stats.svg" width="100%" alt="2 companies founded · 6 SaaS products in build · 5+ years experience · 4 certifications earned" />
 </p>
 
 <p align="center">
   <i>“Code that scales. Design that resonates. Systems that endure.”</i><br/>
-  <sub>Full-Stack Development ✦ Brand Identity ✦ UI/UX Design ✦ E-Commerce Engineering ✦ Automation Systems ✦ Digital Marketing</sub>
+  <sub>ERP Implementation ✦ CRM Systems ✦ Full-Stack Development ✦ Brand Identity ✦ UI/UX Design ✦ E-Commerce Engineering ✦ Automation Systems ✦ Digital Marketing</sub>
 </p>
 
 ---
