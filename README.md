@@ -127,41 +127,52 @@ How my two companies help other businesses grow:
 
 <table>
   <tr>
-    <td>💻 <b>Frontend</b></td>
-    <td><img src="https://skillicons.dev/icons?i=nextjs,react,ts,js,tailwind,html,css" alt="Next.js, React, TypeScript, JavaScript, Tailwind CSS, HTML, CSS" /></td>
+    <td width="24%" valign="top">💻 <b>Languages</b></td>
+    <td><img src="https://skillicons.dev/icons?i=js,ts,py,php,html,css,bash" alt="JavaScript, TypeScript, Python, PHP, HTML5, CSS3, Bash" /><br/><img src="https://img.shields.io/badge/SQL-0B1220?style=for-the-badge" alt="SQL" /><br/><sub>JavaScript · TypeScript · Python · PHP · SQL · HTML5 · CSS3 · Bash</sub></td>
   </tr>
   <tr>
-    <td>⚙️ <b>Backend & data</b></td>
-    <td><img src="https://skillicons.dev/icons?i=nodejs,python,php,postgres,mysql,redis" alt="Node.js, Python, PHP, PostgreSQL, MySQL, Redis" /></td>
+    <td width="24%" valign="top">🎨 <b>Frontend & mobile</b></td>
+    <td><img src="https://skillicons.dev/icons?i=react,nextjs,tailwind" alt="React, Next.js, Tailwind CSS" /><br/><img src="https://img.shields.io/badge/React%20Native-0B1220?style=for-the-badge&logo=react&logoColor=white" alt="React Native" /><br/><sub>React · Next.js · React Native · Tailwind CSS · responsive & accessible design · technical SEO · UI components</sub></td>
   </tr>
   <tr>
-    <td>☁️ <b>Cloud & DevOps</b></td>
-    <td><img src="https://skillicons.dev/icons?i=aws,gcp,azure,docker,nginx,linux,bash,githubactions,git" alt="AWS, Google Cloud, Azure, Docker, Nginx, Linux, Bash, GitHub Actions, Git" /></td>
+    <td width="24%" valign="top">⚙️ <b>Backend & APIs</b></td>
+    <td><img src="https://skillicons.dev/icons?i=nodejs,express" alt="Node.js, Express.js" /><br/><img src="https://img.shields.io/badge/M--Pesa%20Daraja-4CAF50?style=for-the-badge" alt="M-Pesa Daraja" /> <img src="https://img.shields.io/badge/OpenAPI%20%2F%20Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=white" alt="OpenAPI / Swagger" /><br/><sub>Node.js · Express.js · REST APIs · OpenAPI & Swagger · webhooks · third-party integrations · M-Pesa Daraja · auth, OAuth & JWT · WebSockets</sub></td>
   </tr>
   <tr>
-    <td>🎨 <b>Design & CMS</b></td>
-    <td><img src="https://skillicons.dev/icons?i=figma,ai,ps,wordpress" alt="Figma, Adobe Illustrator, Adobe Photoshop, WordPress" /></td>
+    <td width="24%" valign="top">🗄️ <b>Databases</b></td>
+    <td><img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,prisma" alt="PostgreSQL, MySQL, MongoDB, Redis, Prisma" /><br/><sub>PostgreSQL · MySQL · MongoDB · Redis · Prisma ORM · data modelling · query optimisation · caching</sub></td>
   </tr>
   <tr>
-    <td>🤖 <b>Automation, AI & integrations</b></td>
-    <td>
-      <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white" alt="Selenium" />
-      <img src="https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge" alt="Playwright" />
-      <img src="https://img.shields.io/badge/Odoo-714B67?style=for-the-badge&logo=odoo&logoColor=white" alt="Odoo" />
-      <img src="https://img.shields.io/badge/Claude%20API-D97757?style=for-the-badge&logo=claude&logoColor=white" alt="Claude API" />
-      <img src="https://img.shields.io/badge/OpenAI%20API-412991?style=for-the-badge" alt="OpenAI API" />
-      <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
-      <img src="https://img.shields.io/badge/M--Pesa%20Daraja-4CAF50?style=for-the-badge" alt="M-Pesa Daraja" />
-      <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
-    </td>
+    <td width="24%" valign="top">☁️ <b>Cloud & DevOps</b></td>
+    <td><img src="https://skillicons.dev/icons?i=aws,gcp,azure,docker,githubactions,linux" alt="AWS, Google Cloud, Azure, Docker, GitHub Actions, Linux" /><br/><sub>AWS · Google Cloud · Azure · Docker · GitHub Actions · CI/CD pipelines · Linux · Bash scripting</sub></td>
   </tr>
   <tr>
-    <td>🛡️ <b>Networking & security</b></td>
-    <td>
-      <img src="https://img.shields.io/badge/Cisco%20Networking-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" alt="Cisco Networking" />
-      <img src="https://img.shields.io/badge/Network%20Security-0B1220?style=for-the-badge" alt="Network Security" />
-      <img src="https://img.shields.io/badge/System%20Administration-0B1220?style=for-the-badge" alt="System Administration" />
-    </td>
+    <td width="24%" valign="top">🤖 <b>Automation, data & AI</b></td>
+    <td><img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n" /> <img src="https://img.shields.io/badge/OpenAI%20API-412991?style=for-the-badge" alt="OpenAI API" /> <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" /> <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter" /><br/><sub>n8n · workflow automation · OpenAI API & AI integrations · Pandas · Matplotlib · Seaborn · Jupyter · data analysis & visualisation · CSV/spreadsheet processing</sub></td>
+  </tr>
+  <tr>
+    <td width="24%" valign="top">🧾 <b>ERP & CRM</b></td>
+    <td><img src="https://img.shields.io/badge/Odoo-714B67?style=for-the-badge&logo=odoo&logoColor=white" alt="Odoo" /><br/><sub>Odoo ERP & CRM implementation · process mapping · data migration · integrations</sub></td>
+  </tr>
+  <tr>
+    <td width="24%" valign="top">🧪 <b>Testing & quality</b></td>
+    <td><img src="https://skillicons.dev/icons?i=jest,vitest,postman" alt="Jest, Vitest, Postman" /><br/><img src="https://img.shields.io/badge/React%20Testing%20Library-E33332?style=for-the-badge&logo=testinglibrary&logoColor=white" alt="React Testing Library" /><br/><sub>Vitest · Jest · React Testing Library · unit, integration & end-to-end testing · API testing · Postman</sub></td>
+  </tr>
+  <tr>
+    <td width="24%" valign="top">🛡️ <b>Security & networking</b></td>
+    <td><img src="https://img.shields.io/badge/Cisco%20CCNA-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" alt="Cisco CCNA" /> <img src="https://img.shields.io/badge/Network%20Security-0B1220?style=for-the-badge" alt="Network Security" /> <img src="https://img.shields.io/badge/System%20Administration-0B1220?style=for-the-badge" alt="System Administration" /><br/><sub>Network security · Cisco networking (CCNA) · vulnerability assessment · firewall configuration · access control · security hardening · network troubleshooting</sub></td>
+  </tr>
+  <tr>
+    <td width="24%" valign="top">✏️ <b>UI/UX & design</b></td>
+    <td><img src="https://skillicons.dev/icons?i=figma,ai,ps" alt="Figma, Adobe Illustrator, Adobe Photoshop" /><br/><img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge" alt="Canva" /><br/><sub>UI/UX design · design systems · wireframing · interactive prototyping · brand identity · Figma · Illustrator · Photoshop · Canva</sub></td>
+  </tr>
+  <tr>
+    <td width="24%" valign="top">🧰 <b>Tools & workflow</b></td>
+    <td><img src="https://skillicons.dev/icons?i=git,github,wordpress" alt="Git, GitHub, WordPress" /><br/><img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" alt="Jira" /><br/><sub>Git · GitHub · Jira · WordPress · Agile · API & technical documentation</sub></td>
+  </tr>
+  <tr>
+    <td width="24%" valign="top">🌱 <b>Currently expanding into</b></td>
+    <td><img src="https://skillicons.dev/icons?i=nestjs,terraform,kubernetes,grafana,prometheus" alt="NestJS, Terraform, Kubernetes, Grafana, Prometheus" /><br/><img src="https://img.shields.io/badge/Fastify-000000?style=for-the-badge&logo=fastify&logoColor=white" alt="Fastify" /><br/><sub>Fastify · NestJS · Redis · WebSockets · Terraform · Kubernetes · Grafana · Prometheus · advanced automated testing</sub></td>
   </tr>
 </table>
 
