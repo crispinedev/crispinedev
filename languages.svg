@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 495 195" width="495" height="195" role="img" aria-label="Most used languages: TypeScript 98.1%, CSS 1.3%, JavaScript 0.4%, PHP 0.2%">
+  <style>
+    .sans { font-family: "Segoe UI", -apple-system, "Helvetica Neue", Helvetica, Arial, sans-serif; }
+    .mono { font-family: ui-monospace, "SFMono-Regular", "Cascadia Code", Menlo, Consolas, monospace; }
+    .ink { fill: #F2EFE9; } .dim { fill: #8A93A6; } .amber { fill: #F5B942; }
+    .item { animation: rise .6s ease-out both; }
+    @keyframes rise { from { opacity: 0; transform: translateY(6px); } to { opacity: 1; transform: none; } }
+    @media (prefers-reduced-motion: reduce) { .item { animation: none; } }
+  </style>
+  <defs>
+    <clipPath id="bar">
+      <rect x="25" y="58" width="445" height="10" rx="5">
+        <animate attributeName="width" from="0" to="445" dur="1.2s" calcMode="spline" keySplines=".2 .7 .2 1" keyTimes="0;1" fill="freeze"/>
+      </rect>
+    </clipPath>
+  </defs>
+  <rect width="495" height="195" rx="12" fill="#0B1220"/>
+  <text x="25" y="38" class="mono amber" font-size="13" letter-spacing="2.5">MOST USED LANGUAGES</text>
+  <rect x="25" y="58" width="445" height="10" rx="5" fill="#1A2436"/>
+  <g clip-path="url(#bar)"><rect x="25.00" y="58" width="437.19" height="10" fill="#3178C6"/><rect x="461.69" y="58" width="6.44" height="10" fill="#9B6FD6"/><rect x="467.63" y="58" width="2.14" height="10" fill="#F1E05A"/><rect x="469.27" y="58" width="1.23" height="10" fill="#8892BF"/></g>
+  <g class="item" style="animation-delay:0.50s"><circle cx="30" cy="98" r="5" fill="#3178C6"/><text x="43" y="102" class="sans ink" font-size="13">TypeScript</text><text x="230" y="102" text-anchor="end" class="mono dim" font-size="12">98.1%</text></g><g class="item" style="animation-delay:0.62s"><circle cx="265" cy="98" r="5" fill="#9B6FD6"/><text x="278" y="102" class="sans ink" font-size="13">CSS</text><text x="465" y="102" text-anchor="end" class="mono dim" font-size="12">1.3%</text></g><g class="item" style="animation-delay:0.74s"><circle cx="30" cy="130" r="5" fill="#F1E05A"/><text x="43" y="134" class="sans ink" font-size="13">JavaScript</text><text x="230" y="134" text-anchor="end" class="mono dim" font-size="12">0.4%</text></g><g class="item" style="animation-delay:0.86s"><circle cx="265" cy="130" r="5" fill="#8892BF"/><text x="278" y="134" class="sans ink" font-size="13">PHP</text><text x="465" y="134" text-anchor="end" class="mono dim" font-size="12">0.2%</text></g>
+</svg>
