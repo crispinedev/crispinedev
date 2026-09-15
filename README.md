@@ -47,7 +47,7 @@
 <td valign="top">
 
 - 🎨 **Pixalate Kenya:** design & engineering studio
-- 🛡️ **Safi Systems Kenya:** managed hosting & Odoo
+- 🛡️ **Safi Systems Kenya:** ERP implementation, Odoo & more
 - 🔨 **Building:** SokoFlow, PromptKit, Moment, Stitch, Yessify, Storewave
 - 💸 **M-Pesa**, **WhatsApp** and low-bandwidth users come first
 
@@ -85,12 +85,12 @@ How my two companies help other businesses grow:
 <td width="50%" valign="top">
 
 ### 🛡️ Safi Systems Kenya
-<sub>Managed hosting & Odoo</sub>
+<sub>ERP implementation</sub>
 
-- 🧾 **One system to run the business:** Odoo set up for sales, invoicing, inventory and accounting, in place of spreadsheets
-- ☁️ **Hosting done for them:** Docker, Nginx and Postgres deployed, secured and kept up to date
-- 💾 **Data that's safe:** automated backups and monitoring, so a failed server doesn't mean lost records
-- 🤝 **Local support:** a Nairobi team that speaks the client's language and works in their timezone
+- 🧾 **One system to run the business:** ERP for sales, invoicing, inventory, HR and accounting, in place of spreadsheets
+- 🟣 **Odoo first, not Odoo only:** Odoo is our main platform, and we also implement other ERP systems when they fit the business better
+- 🔄 **Implementation done for them:** process mapping, setup, data migration, integrations and staff training
+- 🤝 **Local support:** a Nairobi team that stays on after go-live, in the client's language and timezone
 
 </td>
 </tr>
@@ -101,7 +101,7 @@ How my two companies help other businesses grow:
 | Status | Project | What it is |
 |:--|:--|:--|
 | 🟢 Live | **[Pixalate Kenya](https://pixalate.co.ke)** | Design & engineering studio — brand, web, and automation work |
-| 🟢 Live | **Safi Systems Kenya** | Managed hosting & Odoo for Kenyan SMEs — Docker, Nginx, Postgres, backups, monitoring, done for you |
+| 🟢 Live | **Safi Systems Kenya** | ERP implementation for businesses — mainly Odoo, plus other ERP systems — from setup and data migration to training and support |
 | 🔨 Building | **SokoFlow** | Multi-channel commerce for Kenyan sellers — WhatsApp, Instagram, and web storefronts with M-Pesa built in |
 | 🔨 Building | **PromptKit** | AI content, marketing & publishing platform for agencies and sellers — prompt templates, Jumia/Kilimall bulk catalogs, brand mockups, social scheduling |
 | 🔨 Building | **Moment** | QR guestbook & live photo wall for weddings, graduations and birthdays — guests post with no app or sign-up, hosts unlock a ZIP of every memory via M-Pesa |
@@ -163,7 +163,7 @@ How my two companies help other businesses grow:
   </tr>
 </table>
 
-> 🏠 Everything I ship is self-hosted on infrastructure I manage — the same stack I run for Safi Systems clients. If I recommend it, I'm running it in production.
+> 🏠 Everything I ship is self-hosted on infrastructure I manage — the same stack I use for client work. If I recommend it, I'm running it in production.
 
 ## 💼 Experience
 
@@ -171,7 +171,7 @@ How my two companies help other businesses grow:
 <sub>Nairobi, Kenya · Present</sub>
 
 - Lead **Pixalate Kenya**, a design & engineering studio delivering brand identity, websites, M-Pesa integrations and automation for businesses
-- Lead **Safi Systems Kenya**, providing managed hosting and Odoo deployments with backups, monitoring and local support for SMEs
+- Lead **Safi Systems Kenya**, helping businesses implement ERP systems, mainly Odoo as well as other platforms, from setup and data migration to training and ongoing support
 
 #### 🧩 Founder & Freelance Developer · SaaS platforms
 <sub>Nairobi, Kenya · Present</sub>
@@ -259,7 +259,7 @@ How my two companies help other businesses grow:
 
 ## 🤝 Let's work together
 
-Open to **contract work through [Pixalate](https://pixalate.co.ke)** — web apps, M-Pesa integrations, Odoo deployments, e-commerce, automation, and brand design.
+Open to **contract work through [Pixalate](https://pixalate.co.ke)** — web apps, M-Pesa integrations, ERP & Odoo implementations, e-commerce, automation, and brand design.
 **[crispine.co.ke](https://crispine.co.ke)** · Chat on **[WhatsApp](https://wa.me/254705261887)** · Fastest reply: **[email](mailto:hello@crispine.co.ke)** ✉️
 
 <img src="./assets/footer.svg" width="100%" alt="" />
