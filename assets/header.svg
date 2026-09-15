@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 420" width="1200" height="420" role="img" aria-label="Crispine — full-stack developer and graphic designer building commerce infrastructure in Nairobi, Kenya">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 420" width="1200" height="420" role="img" aria-label="Crispine — founder &amp; CEO of Pixalate Kenya and Safi Systems Kenya, full-stack developer building SaaS in Nairobi, Kenya">
   <style>
     .sans  { font-family: "Segoe UI", -apple-system, "Helvetica Neue", Helvetica, Arial, sans-serif; }
     .mono  { font-family: ui-monospace, "SFMono-Regular", "Cascadia Code", Menlo, Consolas, "Liberation Mono", monospace; }
@@ -99,12 +99,12 @@
   <!-- the split: code face / design face -->
   <g class="rise d4">
     <text x="68" y="314" font-size="34">
-      <tspan class="mono teal">full-stack developer</tspan><tspan class="mono teal cursor">▍</tspan>
+      <tspan class="mono teal">founder &amp; CEO</tspan><tspan class="mono teal cursor">▍</tspan>
     </text>
   </g>
   <g class="rise d5">
     <text x="68" y="364" font-size="34">
-      <tspan class="sans dim" font-size="28">&amp;  </tspan><tspan class="serif amber" font-style="italic">graphic designer</tspan>
+      <tspan class="sans dim" font-size="28">&amp;  </tspan><tspan class="serif amber" font-style="italic">full-stack developer</tspan>
     </text>
   </g>
 
@@ -118,19 +118,19 @@
     <line x1="690" y1="96" x2="1140" y2="96" stroke="#22304A"/>
 
     <text x="714" y="130" class="mono ln l1" font-size="16"><tspan class="teal">$ </tspan><tspan class="ink">whoami</tspan></text>
-    <text x="714" y="160" class="mono ln l2" font-size="15"><tspan class="dim">→ </tspan><tspan class="ink">builds commerce infra for Africa 🌍</tspan></text>
+    <text x="714" y="160" class="mono ln l2" font-size="15"><tspan class="dim">→ </tspan><tspan class="ink">CEO @ Pixalate &amp; Safi Systems</tspan></text>
 
     <text x="714" y="200" class="mono ln l3" font-size="16"><tspan class="teal">$ </tspan><tspan class="ink">cat now.txt</tspan></text>
     <g class="ln l4">
-      <text x="714" y="232" class="mono ink" font-size="15">🟢 Safi Systems</text>
+      <text x="714" y="232" class="mono ink" font-size="15">🟢 Pixalate</text>
       <text x="1116" y="232" text-anchor="end" class="mono teal live" font-size="14">live</text>
     </g>
     <g class="ln l5">
-      <text x="714" y="262" class="mono ink" font-size="15">🧪 SokoFlow</text>
-      <text x="1116" y="262" text-anchor="end" class="mono amber" font-size="14">beta</text>
+      <text x="714" y="262" class="mono ink" font-size="15">🟢 Safi Systems</text>
+      <text x="1116" y="262" text-anchor="end" class="mono teal live" font-size="14">live</text>
     </g>
     <g class="ln l6">
-      <text x="714" y="292" class="mono ink" font-size="15">🔨 Storewave</text>
+      <text x="714" y="292" class="mono ink" font-size="15">🔨 SokoFlow +5 more</text>
       <text x="1116" y="292" text-anchor="end" class="mono dim" font-size="14">building</text>
     </g>
 

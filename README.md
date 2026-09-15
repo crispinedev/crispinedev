@@ -7,11 +7,11 @@
 -->
 
 <p align="center">
-  <img src="./assets/header.svg" width="100%" alt="Crispine — full-stack developer & graphic designer, Nairobi, Kenya" />
+  <img src="./assets/header.svg" width="100%" alt="Crispine — founder & CEO of Pixalate Kenya and Safi Systems Kenya, Nairobi" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=20&duration=3500&pause=900&color=F5B942&center=true&vCenter=true&width=760&lines=Building+commerce+infrastructure+for+African+markets;Software+developer+%E2%80%A2+Cloud+%26+DevOps+%E2%80%A2+Cybersecurity;M-Pesa+payments+%E2%80%A2+multi-tenant+SaaS+%E2%80%A2+self-hosted+infra;Full-stack+developer+%26+graphic+designer;Open+to+contract+work+through+Pixalate" alt="Building commerce infrastructure for African markets" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=20&duration=3500&pause=900&color=F5B942&center=true&vCenter=true&width=760&lines=Founder+%26+CEO+%E2%80%A2+Pixalate+Kenya+%26+Safi+Systems+Kenya;Building+SaaS+for+African+markets;Software+developer+%E2%80%A2+Cloud+%26+DevOps+%E2%80%A2+Cybersecurity;M-Pesa+payments+%E2%80%A2+multi-tenant+SaaS+%E2%80%A2+self-hosted+infra;Full-stack+developer+%26+graphic+designer;Open+to+contract+work+through+Pixalate" alt="Founder & CEO of Pixalate Kenya and Safi Systems Kenya" />
 </p>
 
 <p align="center">
@@ -40,9 +40,9 @@
 <tr>
 <td width="55%" valign="top">
 
-- 🇰🇪 Full-stack developer & designer based in **Nairobi, Kenya**
+- 🇰🇪 **Founder & CEO of [Pixalate Kenya](https://pixalate.co.ke)** (design & engineering studio) and **Safi Systems Kenya** (managed hosting & Odoo) — both up and running, based in **Nairobi, Kenya**
+- 🚀 Freelance developer and founder of a growing family of SaaS platforms: **SokoFlow**, **PromptKit**, **Moment**, **Stitch**, **Yessify** and **Storewave**
 - 🛒 I build **production commerce infrastructure** for African markets — payments, multi-tenant SaaS, and the self-hosted systems that run them
-- 💼 **IT Programmer Analyst at Dynamic Kenya LTD** by day; I run **[Pixalate](https://pixalate.co.ke)** (design & engineering studio) and **Safi Systems** (managed hosting & Odoo)
 - 💸 **M-Pesa**, **WhatsApp** and low-bandwidth users are my starting assumptions, not afterthoughts
 - 🎓 **BSc Applied Computer Science**, Egerton University · CCNA · AWS Cloud Practitioner
 - 🤖 Currently deep into **AI tooling** — Claude API and agent workflows
@@ -56,10 +56,9 @@
 const crispine = {
   based:     "Nairobi, Kenya 🇰🇪",
   timezone:  "EAT (UTC+3)",
-  roles:     ["full-stack developer", "graphic designer"],
-  dayJob:    "IT Programmer Analyst @ Dynamic Kenya",
-  running:   ["Pixalate", "Safi Systems"],
-  building:  ["SokoFlow", "Storewave", "Stitch"],
+  roles:     ["founder & CEO", "freelance full-stack developer", "graphic designer"],
+  running:   ["Pixalate Kenya", "Safi Systems Kenya"],
+  building:  ["SokoFlow", "PromptKit", "Moment", "Stitch", "Yessify", "Storewave"],
   payments:  "M-Pesa Daraja 💸",
   hosting:   "self-hosted, always 🐳",
   speaks:    ["English", "Kiswahili"],
@@ -83,15 +82,16 @@ const crispine = {
 
 | Status | Project | What it is |
 |:--|:--|:--|
-| 🟢 Live | **Safi Systems** | Managed hosting & Odoo for Kenyan SMEs — Docker, Nginx, Postgres, backups, monitoring, done for you |
-| 🟢 Live | **[Pixalate](https://pixalate.co.ke)** | Design & engineering studio — brand, web, and automation work |
-| 🧪 Beta | **SokoFlow** | Multi-channel commerce for Kenyan sellers — WhatsApp, Instagram, and web storefronts with M-Pesa built in |
+| 🟢 Live | **[Pixalate Kenya](https://pixalate.co.ke)** | Design & engineering studio — brand, web, and automation work |
+| 🟢 Live | **Safi Systems Kenya** | Managed hosting & Odoo for Kenyan SMEs — Docker, Nginx, Postgres, backups, monitoring, done for you |
+| 🔨 Building | **SokoFlow** | Multi-channel commerce for Kenyan sellers — WhatsApp, Instagram, and web storefronts with M-Pesa built in |
+| 🔨 Building | **PromptKit** | AI content, marketing & publishing platform for agencies and sellers — prompt templates, Jumia/Kilimall bulk catalogs, brand mockups, social scheduling |
 | 🔨 Building | **Moment** | QR guestbook & live photo wall for weddings, graduations and birthdays — guests post with no app or sign-up, hosts unlock a ZIP of every memory via M-Pesa |
 | 🔨 Building | **Stitch** | Personalized keepsakes for the people who raised you — scrapbooks and letters, sibling invites, voice notes, WhatsApp delivery, M-Pesa unlock |
+| 🔨 Building | **Yessify** | A personalised page for the question you're scared to ask — 19 kinds of ask, themes, photos and voice notes, English/Kiswahili, pay once with M-Pesa |
 | 🔨 Building | **Storewave** | Multi-tenant e-commerce SaaS — one platform, many stores |
-| 🔨 Building | **Swiss Scraper → Sentinel** | POS-loss detection engine, being generalized into an open-source monitoring tool |
 
-<!-- Add rows as products launch: Yessify, Soundboard. Link a project only once its repo or site is public. -->
+<!-- Link a project only once its repo or site is public. -->
 
 ## 📂 On GitHub
 
@@ -158,7 +158,9 @@ const crispine = {
 
 | When | Role | Where |
 |:--|:--|:--|
-| 2024 – now | 🧑‍💻 **IT Programmer Analyst** | Dynamic Kenya LTD, Nairobi |
+| now | 🚀 **Founder & CEO** | Pixalate Kenya · Safi Systems Kenya |
+| now | 🧩 **Founder & Freelance Developer** | SokoFlow, PromptKit, Moment, Stitch, Yessify, Storewave |
+| 2024 – 2025 | 🧑‍💻 **IT Programmer Analyst** | Dynamic Kenya LTD, Nairobi |
 | 2023 | 🌐 **Remote IT Manager** | Amaris Solutions Group |
 | 2022 | 💻 **Freelance Web & Software Developer** | Upwork |
 | 2021 | 🛠️ **Freelance Software Developer & IT Consultant** | Self-employed |
