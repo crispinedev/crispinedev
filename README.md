@@ -57,8 +57,8 @@
 <td valign="top">
 
 - 🎓 **BSc Applied Computer Science**, Egerton · CCNA · AWS
-- 🤖 Deep into **AI tooling:** Claude API & agent workflows
-- 💬 **Ask me about:** M-Pesa Daraja, Odoo, Docker/Nginx, brand design
+- 🤖 Deep into **AI & automation:** OpenAI API & n8n workflows
+- 💬 **Ask me about:** M-Pesa Daraja, Odoo ERP & CRM, Docker, brand design
 - 🗣️ English & Kiswahili · EAT (UTC+3)
 
 </td>
