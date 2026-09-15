@@ -72,11 +72,34 @@ const crispine = {
 
 ## 📈 Impact
 
-- ⚡ **36%** improvement in development speed and system performance at Dynamic Kenya LTD
-- 📉 **25%** fewer support inquiries at Dynamic Kenya LTD
-- 🛒 **40%** faster order processing on a full-stack e-commerce platform with payments and a live inventory dashboard
-- 🤖 **50%** faster average customer response time with an AI support chatbot
-- 📣 **30%** more social media engagement within 60 days of a corporate branding campaign launch
+How my two companies help other businesses grow:
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🎨 Pixalate Kenya
+<sub>Design & engineering studio</sub>
+
+- 🪪 **Brands people remember:** logos, brand identity and campaign creative that make growing businesses look established
+- 🌐 **Websites and online stores that sell:** fast, mobile-first sites and e-commerce stores built for low-bandwidth users
+- 💸 **Payments customers already use:** M-Pesa checkout and WhatsApp ordering, so businesses get paid without extra steps
+- 🤖 **Less manual work:** automations, dashboards and AI assistants that take repetitive tasks off small teams
+
+</td>
+<td width="50%" valign="top">
+
+### 🛡️ Safi Systems Kenya
+<sub>Managed hosting & Odoo</sub>
+
+- 🧾 **One system to run the business:** Odoo set up for sales, invoicing, inventory and accounting, in place of spreadsheets
+- ☁️ **Hosting done for them:** Docker, Nginx and Postgres deployed, secured and kept up to date
+- 💾 **Data that's safe:** automated backups and monitoring, so a failed server doesn't mean lost records
+- 🤝 **Local support:** a Nairobi team that speaks the client's language and works in their timezone
+
+</td>
+</tr>
+</table>
 
 ## 🚀 What I'm building
 
