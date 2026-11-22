@@ -7,11 +7,11 @@
 -->
 
 <p align="center">
-  <img src="./assets/header.svg" width="100%" alt="Crispine — founder & CEO of Pixalate Kenya and Safi Systems Kenya, Nairobi" />
+  <img src="./assets/header.svg" width="100%" alt="Crispine — founder & CEO of Pixalate Kenya and Olventra Systems, Nairobi" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=20&duration=3500&pause=900&color=F5B942&center=true&vCenter=true&width=760&lines=Founder+%26+CEO+%E2%80%A2+Pixalate+Kenya+%26+Safi+Systems+Kenya;Building+SaaS+for+African+markets;ERP+%26+CRM+implementation+%E2%80%A2+Odoo+and+more;Software+developer+%E2%80%A2+Cloud+%26+DevOps+%E2%80%A2+Cybersecurity;M-Pesa+payments+%E2%80%A2+multi-tenant+SaaS+%E2%80%A2+self-hosted+infra;Full-stack+developer+%26+graphic+designer;Open+to+contract+work+through+Pixalate" alt="Founder & CEO of Pixalate Kenya and Safi Systems Kenya" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=20&duration=3500&pause=900&color=F5B942&center=true&vCenter=true&width=760&lines=Founder+%26+CEO+%E2%80%A2+Pixalate+Kenya+%26+Olventra+Systems;Building+SaaS+for+African+markets;ERP+%26+CRM+implementation+%E2%80%A2+Odoo+and+more;Software+developer+%E2%80%A2+Cloud+%26+DevOps+%E2%80%A2+Cybersecurity;M-Pesa+payments+%E2%80%A2+multi-tenant+SaaS+%E2%80%A2+self-hosted+infra;Full-stack+developer+%26+graphic+designer;Open+to+contract+work+through+Pixalate" alt="Founder & CEO of Pixalate Kenya and Olventra Systems" />
 </p>
 
 <p align="center">
@@ -38,7 +38,7 @@
 
 ## 👋 About me
 
-🇰🇪 **Founder & CEO of [Pixalate Kenya](https://pixalate.co.ke) and Safi Systems Kenya**, based in **Nairobi**. I'm a freelance full-stack developer and graphic designer building **production commerce infrastructure** for African markets: payments, multi-tenant SaaS, and the self-hosted systems that run them.
+🇰🇪 **Founder & CEO of [Pixalate Kenya](https://pixalate.co.ke) and Olventra Systems**, based in **Nairobi**. I'm a freelance full-stack developer and graphic designer building **production commerce infrastructure** for African markets: payments, multi-tenant SaaS, and the self-hosted systems that run them.
 
 <table>
 <tr>
@@ -49,7 +49,7 @@
 <td valign="top">
 
 - 🎨 **Pixalate Kenya:** design & engineering studio
-- 🛡️ **Safi Systems Kenya:** ERP implementation, Odoo & more
+- 🛡️ **Olventra Systems:** ERP implementation, Odoo & more
 - 🔨 **Building:** SokoFlow, PromptKit, Moment, Stitch, Yessify, Storewave
 - 💸 **M-Pesa**, **WhatsApp** and low-bandwidth users come first
 
@@ -86,7 +86,7 @@ How my two companies help other businesses grow:
 </td>
 <td width="50%" valign="top">
 
-### 🛡️ Safi Systems Kenya
+### 🛡️ Olventra Systems
 <sub>ERP implementation</sub>
 
 - 🧾 **One system to run the business:** ERP for sales, invoicing, inventory, HR and accounting, in place of spreadsheets
@@ -103,7 +103,7 @@ How my two companies help other businesses grow:
 | Status | Project | What it is |
 |:--|:--|:--|
 | 🟢 Live | **[Pixalate Kenya](https://pixalate.co.ke)** | Design & engineering studio — brand, web, and automation work |
-| 🟢 Live | **Safi Systems Kenya** | ERP implementation for businesses — mainly Odoo, plus other ERP systems — from setup and data migration to training and support |
+| 🟢 Live | **Olventra Systems** | ERP implementation for businesses — mainly Odoo, plus other ERP systems — from setup and data migration to training and support |
 | 🔨 Building | **SokoFlow** | Multi-channel commerce for Kenyan sellers — WhatsApp, Instagram, and web storefronts with M-Pesa built in |
 | 🔨 Building | **PromptKit** | AI content, marketing & publishing platform for agencies and sellers — prompt templates, Jumia/Kilimall bulk catalogs, brand mockups, social scheduling |
 | 🔨 Building | **Moment** | QR guestbook & live photo wall for weddings, graduations and birthdays — guests post with no app or sign-up, hosts unlock a ZIP of every memory via M-Pesa |
@@ -180,11 +180,11 @@ How my two companies help other businesses grow:
 
 ## 💼 Experience
 
-#### 🚀 Founder & CEO · Pixalate Kenya & Safi Systems Kenya
+#### 🚀 Founder & CEO · Pixalate Kenya & Olventra Systems
 <sub>Nairobi, Kenya · Present</sub>
 
 - Lead **Pixalate Kenya**, a design & engineering studio delivering brand identity, websites, M-Pesa integrations and automation for businesses
-- Lead **Safi Systems Kenya**, helping businesses implement ERP systems, mainly Odoo as well as other platforms, from setup and data migration to training and ongoing support
+- Lead **Olventra Systems**, helping businesses implement ERP systems, mainly Odoo as well as other platforms, from setup and data migration to training and ongoing support
 
 #### 🧩 Founder & Freelance Developer · SaaS platforms
 <sub>Nairobi, Kenya · Present</sub>
