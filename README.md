@@ -26,7 +26,7 @@
 </p>
 
 <p align="center">
-  <img src="./assets/stats.svg" width="100%" alt="2 companies founded · 6 SaaS products in build · 5+ years experience · 4 certifications earned" />
+  <img src="./assets/stats.svg" width="100%" alt="2 companies founded · 10 live apps · 5+ years experience · 4 certifications earned" />
 </p>
 
 <p align="center">
@@ -48,9 +48,9 @@
 <tr>
 <td valign="top">
 
-- 🎨 **Pixalate Kenya:** design & engineering studio
+- 🎨 **[Pixalate Kenya](https://pixalate.co.ke):** design & engineering studio
 - 🛡️ **Olventra Systems:** ERP implementation, Odoo & more
-- 🔨 **Building:** SokoFlow, PromptKit, Moment, Stitch, Yessify, Storewave
+- 🟢 **Live:** 10 apps spanning commerce, AI, events, property and mobility
 - 💸 **M-Pesa**, **WhatsApp** and low-bandwidth users come first
 
 </td>
@@ -75,7 +75,7 @@ How my two companies help other businesses grow:
 <tr>
 <td width="50%" valign="top">
 
-### 🎨 Pixalate Kenya
+### 🎨 [Pixalate Kenya](https://pixalate.co.ke)
 <sub>Design & engineering studio</sub>
 
 - 🪪 **Brands people remember:** logos, brand identity and campaign creative that make growing businesses look established
@@ -98,18 +98,22 @@ How my two companies help other businesses grow:
 </tr>
 </table>
 
-## 🚀 What I'm building
+## 🚀 Live projects
 
 | Status | Project | What it is |
 |:--|:--|:--|
 | 🟢 Live | **[Pixalate Kenya](https://pixalate.co.ke)** | Design & engineering studio — brand, web, and automation work |
 | 🟢 Live | **Olventra Systems** | ERP implementation for businesses — mainly Odoo, plus other ERP systems — from setup and data migration to training and support |
-| 🔨 Building | **SokoFlow** | Multi-channel commerce for Kenyan sellers — WhatsApp, Instagram, and web storefronts with M-Pesa built in |
-| 🔨 Building | **PromptKit** | AI content, marketing & publishing platform for agencies and sellers — prompt templates, Jumia/Kilimall bulk catalogs, brand mockups, social scheduling |
-| 🔨 Building | **Moment** | QR guestbook & live photo wall for weddings, graduations and birthdays — guests post with no app or sign-up, hosts unlock a ZIP of every memory via M-Pesa |
-| 🔨 Building | **Stitch** | Personalized keepsakes for the people who raised you — scrapbooks and letters, sibling invites, voice notes, WhatsApp delivery, M-Pesa unlock |
-| 🔨 Building | **Yessify** | A personalised page for the question you're scared to ask — 19 kinds of ask, themes, photos and voice notes, English/Kiswahili, pay once with M-Pesa |
-| 🔨 Building | **Storewave** | Multi-tenant e-commerce SaaS — one platform, many stores |
+| 🟢 Live | **[SokoFlow](https://sokoflow.co.ke)** | Multi-channel commerce management for Kenyan sellers — products, inventory, orders, finance and publishing across online marketplaces and stores |
+| 🟢 Live | **[PromptKit](https://promptkit.co.ke)** | AI content, marketing and commerce workspace — writing tools, brand profiles, social scheduling, images and M-Pesa payments |
+| 🟢 Live | **[Moment](https://moment.co.ke)** | QR guestbook and live photo wall for events — guests share photos, videos and messages without an app or sign-up |
+| 🟢 Live | **[Stitch](https://stitch.co.ke)** | Digital tributes and funeral programmes — life stories, photos, guest messages, attendance and family contributions |
+| 🟢 Live | **[Yessify](https://yessify.co.ke)** | Personal ask pages for proposals, invitations and special moments — themes, photos, voice recordings and one-tap answers |
+| 🟢 Live | **[Storewave](https://storewave.co.ke)** | Multi-tenant e-commerce platform — hosted storefronts, merchant dashboards, M-Pesa checkout, inventory and order fulfilment |
+| 🟢 Live | **[Rentline](https://rentline.co.ke)** | Rent collection and property management for Kenyan landlords and agencies — payment matching, invoicing, arrears and tenant portals |
+| 🟢 Live | **MotyApp** | Ride-sharing mobile app — rider and driver experiences, maps, trip management and a wallet |
+| 🟢 Live | **My Instants** | Searchable soundboard — recordings and effects, favourites, shareable sound links and private browser uploads |
+| 🟢 Live | **OddsKE** | Kenyan odds comparison and analytics project — odds boards, arbitrage scanning and stake calculators |
 
 <!-- Link a project only once its repo or site is public. -->
 
@@ -180,16 +184,16 @@ How my two companies help other businesses grow:
 
 ## 💼 Experience
 
-#### 🚀 Founder & CEO · Pixalate Kenya & Olventra Systems
+#### 🚀 Founder & CEO · [Pixalate Kenya](https://pixalate.co.ke) & Olventra Systems
 <sub>Nairobi, Kenya · Present</sub>
 
-- Lead **Pixalate Kenya**, a design & engineering studio delivering brand identity, websites, M-Pesa integrations and automation for businesses
+- Lead **[Pixalate Kenya](https://pixalate.co.ke)**, a design & engineering studio delivering brand identity, websites, M-Pesa integrations and automation for businesses
 - Lead **Olventra Systems**, helping businesses implement ERP systems, mainly Odoo as well as other platforms, from setup and data migration to training and ongoing support
 
-#### 🧩 Founder & Freelance Developer · SaaS platforms
+#### 🧩 Founder & Freelance Developer · Apps & platforms
 <sub>Nairobi, Kenya · Present</sub>
 
-- Building **SokoFlow**, **PromptKit**, **Moment**, **Stitch**, **Yessify** and **Storewave**: commerce, AI and consumer products for African markets
+- Run 10 live apps: **SokoFlow**, **PromptKit**, **Moment**, **Stitch**, **Yessify**, **Storewave**, **Rentline**, **MotyApp**, **My Instants** and **OddsKE** — commerce, AI, consumer, property and mobility products
 
 #### 🧑‍💻 IT Programmer Analyst · Dynamic Kenya LTD
 <sub>Nairobi, Kenya · Jan 2024 – 2025</sub>
