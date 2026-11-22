@@ -22,7 +22,6 @@
   <a href="https://www.facebook.com/crispine.kuria"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" /></a>
   <a href="https://wa.me/254705261887"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" /></a>
   <a href="mailto:hello@crispine.co.ke"><img src="https://img.shields.io/badge/hello@crispine.co.ke-0B1220?style=for-the-badge&logo=gmail&logoColor=F5B942" alt="Email" /></a>
-  <img src="https://komarev.com/ghpvc/?username=crispinedev&label=Profile%20views&color=F5B942&style=for-the-badge" alt="Profile views" />
 </p>
 
 <p align="center">
@@ -38,7 +37,7 @@
 
 ## 👋 About me
 
-🇰🇪 **Founder & CEO of [Pixalate Kenya](https://pixalate.co.ke) and Olventra Systems**, based in **Nairobi**. I'm a freelance full-stack developer and graphic designer building **production commerce infrastructure** for African markets: payments, multi-tenant SaaS, and the self-hosted systems that run them.
+🇰🇪 **Founder & CEO of [Pixalate Kenya](https://pixalate.co.ke) and [Olventra Systems](https://olventra.co.ke)**, based in **Nairobi**. I'm a freelance full-stack developer and graphic designer building **production commerce infrastructure** for African markets: payments, multi-tenant SaaS, and the self-hosted systems that run them.
 
 <table>
 <tr>
@@ -49,7 +48,7 @@
 <td valign="top">
 
 - 🎨 **[Pixalate Kenya](https://pixalate.co.ke):** design & engineering studio
-- 🛡️ **Olventra Systems:** ERP implementation, Odoo & more
+- 🛡️ **[Olventra Systems](https://olventra.co.ke):** ERP implementation, Odoo & more
 - 🟢 **Live:** 10 apps spanning commerce, AI, events, property and mobility
 - 💸 **M-Pesa**, **WhatsApp** and low-bandwidth users come first
 
@@ -86,7 +85,7 @@ How my two companies help other businesses grow:
 </td>
 <td width="50%" valign="top">
 
-### 🛡️ Olventra Systems
+### 🛡️ [Olventra Systems](https://olventra.co.ke)
 <sub>ERP implementation</sub>
 
 - 🧾 **One system to run the business:** ERP for sales, invoicing, inventory, HR and accounting, in place of spreadsheets
@@ -103,7 +102,7 @@ How my two companies help other businesses grow:
 | Status | Project | What it is |
 |:--|:--|:--|
 | 🟢 Live | **[Pixalate Kenya](https://pixalate.co.ke)** | Design & engineering studio — brand, web, and automation work |
-| 🟢 Live | **Olventra Systems** | ERP implementation for businesses — mainly Odoo, plus other ERP systems — from setup and data migration to training and support |
+| 🟢 Live | **[Olventra Systems](https://olventra.co.ke)** | ERP implementation for businesses — mainly Odoo, plus other ERP systems — from setup and data migration to training and support |
 | 🟢 Live | **[SokoFlow](https://sokoflow.co.ke)** | Multi-channel commerce management for Kenyan sellers — products, inventory, orders, finance and publishing across online marketplaces and stores |
 | 🟢 Live | **[PromptKit](https://promptkit.co.ke)** | AI content, marketing and commerce workspace — writing tools, brand profiles, social scheduling, images and M-Pesa payments |
 | 🟢 Live | **[Moment](https://moment.co.ke)** | QR guestbook and live photo wall for events — guests share photos, videos and messages without an app or sign-up |
@@ -184,11 +183,11 @@ How my two companies help other businesses grow:
 
 ## 💼 Experience
 
-#### 🚀 Founder & CEO · [Pixalate Kenya](https://pixalate.co.ke) & Olventra Systems
+#### 🚀 Founder & CEO · [Pixalate Kenya](https://pixalate.co.ke) & [Olventra Systems](https://olventra.co.ke)
 <sub>Nairobi, Kenya · Present</sub>
 
 - Lead **[Pixalate Kenya](https://pixalate.co.ke)**, a design & engineering studio delivering brand identity, websites, M-Pesa integrations and automation for businesses
-- Lead **Olventra Systems**, helping businesses implement ERP systems, mainly Odoo as well as other platforms, from setup and data migration to training and ongoing support
+- Lead **[Olventra Systems](https://olventra.co.ke)**, helping businesses implement ERP systems, mainly Odoo as well as other platforms, from setup and data migration to training and ongoing support
 
 #### 🧩 Founder & Freelance Developer · Apps & platforms
 <sub>Nairobi, Kenya · Present</sub>
