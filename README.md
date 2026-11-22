@@ -248,21 +248,6 @@ How my two companies help other businesses grow:
   <img src="https://img.shields.io/badge/Google%20IT%20Support-2023-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Google IT Support Professional, 2023" />
 </p>
 
-## 📊 GitHub activity
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=crispinedev&hide_border=true&border_radius=12&background=0B1220&ring=F5B942&fire=F5B942&currStreakLabel=F5B942&sideNums=F2EFE9&sideLabels=8A93A6&currStreakNum=F2EFE9&dates=8A93A6&stroke=22304A" height="170" alt="GitHub contribution streak" />
-  <img src="https://raw.githubusercontent.com/crispinedev/crispinedev/output/languages.svg" height="170" alt="Most used languages" />
-</p>
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/crispinedev/crispinedev/output/snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/crispinedev/crispinedev/output/snake-light.svg" />
-    <img src="https://raw.githubusercontent.com/crispinedev/crispinedev/output/snake-dark.svg" alt="Snake eating my contribution graph" />
-  </picture>
-</p>
-
 <!--
 ## ✍️ Recent writing
   Enable this section + the update-readme workflow once crispine.co.ke/rss.xml is live.
@@ -277,4 +262,4 @@ Open to **contract work through [Pixalate](https://pixalate.co.ke)** — web app
 
 <img src="./assets/footer.svg" width="100%" alt="" />
 
-<p align="center"><sub>⏱️ Nairobi (EAT, UTC+3) · 🐍 Snake and languages refreshed daily by GitHub Actions · Thanks for stopping by ✨</sub></p>
+<p align="center"><sub>⏱️ Nairobi (EAT, UTC+3) · Thanks for stopping by ✨</sub></p>
