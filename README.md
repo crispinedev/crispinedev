@@ -260,8 +260,12 @@ How my two companies help other businesses grow:
 
 ## 🤝 Let's work together
 
-Open to **contract work through [Pixalate](https://pixalate.co.ke)** — web apps, M-Pesa integrations, ERP & Odoo implementations, e-commerce, automation, and brand design.
-**[crispine.co.ke](https://crispine.co.ke)** · Chat on **[WhatsApp](https://wa.me/254705261887)** · Fastest reply: **[email](mailto:hello@crispine.co.ke)** ✉️
+Available for contract projects and ongoing support through:
+
+- **[Pixalate Kenya](https://pixalate.co.ke)** — brand identity, website design and development, online stores, and M-Pesa checkout integrations.
+- **[Olventra Systems](https://olventra.co.ke)** — custom business software, ERP & CRM implementation, Odoo, system integrations, automation, managed hosting and technical support.
+
+Tell me what you need built or improved: **[WhatsApp](https://wa.me/254705261887)** · **[hello@crispine.co.ke](mailto:hello@crispine.co.ke)** · **[crispine.co.ke](https://crispine.co.ke)**
 
 <img src="./assets/footer.svg" width="100%" alt="" />
 
