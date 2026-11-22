@@ -1,19 +1,10 @@
-# Builds the README's generated images and publishes them to the `output` branch:
-#   snake-dark.svg / snake-light.svg  contribution-graph snake
-#   languages.svg                     most used languages across public repos
-# Everything must be built in this one run: publishing replaces the whole branch.
+# Optional snake and languages images retained for manual generation.
+# These images are no longer displayed in the profile overview.
 
 name: Profile assets
 
 on:
-  schedule:
-    - cron: "0 3 * * *"          # 06:00 EAT daily
-  workflow_dispatch:              # manual trigger
-  push:
-    branches: [main]
-    paths:
-      - ".github/workflows/profile-assets.yml"
-      - ".github/scripts/**"
+  workflow_dispatch:
 
 permissions:
   contents: write

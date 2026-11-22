@@ -1,7 +1,6 @@
 <!--
   Profile README for github.com/crispinedev/crispinedev
   - assets/header.svg, assets/stats.svg and assets/footer.svg are self-hosted animated SVGs (no third-party service to go down).
-  - The snake and the languages card are built by .github/workflows/profile-assets.yml and published daily to the `output` branch.
   - Stats, experience, impact numbers and certifications mirror crispine.co.ke. Update both together.
   - Only link pages that actually load, and only public repos. Uncomment the hidden sections when the thing they reference is live.
 -->
@@ -11,7 +10,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=20&duration=3500&pause=900&color=F5B942&center=true&vCenter=true&width=760&lines=Founder+%26+CEO+%E2%80%A2+Pixalate+Kenya+%26+Olventra+Systems;Building+SaaS+for+African+markets;ERP+%26+CRM+implementation+%E2%80%A2+Odoo+and+more;Software+developer+%E2%80%A2+Cloud+%26+DevOps+%E2%80%A2+Cybersecurity;M-Pesa+payments+%E2%80%A2+multi-tenant+SaaS+%E2%80%A2+self-hosted+infra;Full-stack+developer+%26+graphic+designer;Open+to+contract+work+through+Pixalate" alt="Founder & CEO of Pixalate Kenya and Olventra Systems" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=20&duration=3500&pause=900&color=F5B942&center=true&vCenter=true&width=760&lines=Founder+%26+CEO+%E2%80%A2+Pixalate+Kenya+%26+Olventra+Systems;Building+SaaS+for+African+markets;ERP+%26+CRM+implementation+%E2%80%A2+Odoo+and+more;Software+developer+%E2%80%A2+Cloud+%26+DevOps+%E2%80%A2+Cybersecurity;M-Pesa+payments+%E2%80%A2+multi-tenant+SaaS+%E2%80%A2+self-hosted+infra;Full-stack+developer+%26+graphic+designer;Open+to+projects+via+Pixalate+%26+Olventra" alt="Founder & CEO of Pixalate Kenya and Olventra Systems" />
 </p>
 
 <p align="center">
