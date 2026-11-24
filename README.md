@@ -20,7 +20,7 @@
   <a href="https://www.instagram.com/gotta.luv_kuria/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
   <a href="https://www.facebook.com/crispine.kuria"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" /></a>
   <a href="https://wa.me/254705261887"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" /></a>
-  <a href="mailto:hello@crispine.co.ke"><img src="https://img.shields.io/badge/hello@crispine.co.ke-0B1220?style=for-the-badge&logo=gmail&logoColor=F5B942" alt="Email" /></a>
+  <a href="mailto:lilturtlekrix@gmail.com"><img src="https://img.shields.io/badge/lilturtlekrix@gmail.com-0B1220?style=for-the-badge&logo=gmail&logoColor=F5B942" alt="Email" /></a>
 </p>
 
 <p align="center">
@@ -63,7 +63,7 @@
 </tr>
 </table>
 
-📫 Fastest reply: **[hello@crispine.co.ke](mailto:hello@crispine.co.ke)** or **[WhatsApp](https://wa.me/254705261887)**
+📫 Fastest reply: **[lilturtlekrix@gmail.com](mailto:lilturtlekrix@gmail.com)** or **[WhatsApp](https://wa.me/254705261887)**
 
 ## 📈 Impact
 
@@ -264,7 +264,7 @@ Available for contract projects and ongoing support through:
 - **[Pixalate Kenya](https://pixalate.co.ke)** — brand identity, website design and development, online stores, and M-Pesa checkout integrations.
 - **[Olventra Systems](https://olventra.co.ke)** — custom business software, ERP & CRM implementation, Odoo, system integrations, automation, managed hosting and technical support.
 
-Tell me what you need built or improved: **[WhatsApp](https://wa.me/254705261887)** · **[hello@crispine.co.ke](mailto:hello@crispine.co.ke)** · **[crispine.co.ke](https://crispine.co.ke)**
+Tell me what you need built or improved: **[WhatsApp](https://wa.me/254705261887)** · **[lilturtlekrix@gmail.com](mailto:lilturtlekrix@gmail.com)** · **[crispine.co.ke](https://crispine.co.ke)**
 
 <img src="./assets/footer.svg" width="100%" alt="" />
 
